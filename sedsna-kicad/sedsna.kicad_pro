@@ -433,6 +433,7 @@
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
+      "global_label_dangling": "warning",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
       "isolated_pin_label": "warning",
@@ -506,10 +507,14 @@
   },
   "pcbnew": {
     "last_paths": {
+      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
+      "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -620,9 +625,17 @@
     "meta": {
       "version": 1
     },
+    "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
+    "space_save_all_events": true,
+    "spice_current_sheet_as_root": false,
+    "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
+    "spice_save_all_currents": false,
+    "spice_save_all_dissipations": false,
+    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
     "top_level_sheets": [
@@ -632,7 +645,7 @@
         "uuid": "3c74c754-da14-4b64-b199-cc61a11bb69f"
       }
     ],
-    "used_designators": "#PWR3-8,#PWR13,#PWR23,#PWR25-29,#PWR31-33,#PWR35,#PWR38-49,#PWR57,#PWR59,#PWR71-72,#PWR91-92,#PWR96-97,SW1,BAT1,U2,U5-6,J5,BR1,C3-7,C15,C17-19,C23-24,FB1,PWR1,R2,R7-8,R12,R16,R18-19,ENABLE2,RESET1,B1",
+    "used_designators": "#PWR3-16,#PWR23,#PWR25-29,#PWR31-33,#PWR35,#PWR38-49,#PWR57,#PWR59,#PWR71-72,#PWR91-92,#PWR96-97,SW1,BAT1,U2,U5-6,J1-8,BR1,C3-9,C15,C17-19,C23-24,FB1,PWR1,R2,R7-8,R12,R16,R18-19,ENABLE2,RESET1,B1,L1",
     "variants": []
   },
   "sheets": [
