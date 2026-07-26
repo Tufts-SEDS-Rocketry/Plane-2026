@@ -14275,7 +14275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal"
 			(at 69.85 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -14449,7 +14449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "sedsna:CONN06_2035551016_MOL"
 			(at 287.02 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -15253,7 +15253,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TR3_V1:MAGNETO-MLX90395KDC"
 			(at 255.27 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -16432,7 +16432,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TR3_V1:XTAL_ECS-400-10-37B2-CKY-TR"
 			(at 154.94 119.38 0)
 			(hide yes)
 			(show_name no)
