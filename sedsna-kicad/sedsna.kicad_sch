@@ -12435,7 +12435,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "sedsna:CONN_142-0701-801"
 			(at 342.9 96.52 0)
 			(hide yes)
 			(show_name no)
