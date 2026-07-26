@@ -10909,7 +10909,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 315.9252 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -10990,7 +10990,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 141.224 124.206 90)
 			(hide yes)
 			(show_name no)
@@ -12029,7 +12029,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 206.7052 127 0)
 			(hide yes)
 			(show_name no)
@@ -12269,7 +12269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric_Pad0.57x0.30mm_HandSolder"
 			(at 276.5552 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -14275,7 +14275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QFN32_5X5_EXP"
+		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal"
 			(at 69.85 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -14449,7 +14449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "sedsna:CONN06_2035551016_MOL"
 			(at 287.02 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -14703,7 +14703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 332.4352 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -15018,7 +15018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
 			(at 323.85 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -15253,7 +15253,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TR3_V1:MAGNETO-MLX90395KDC"
 			(at 255.27 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -15352,7 +15352,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 154.6352 127 0)
 			(hide yes)
 			(show_name no)
@@ -16432,7 +16432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECX-1637B2_ECS"
+		(property "Footprint" "TR3_V1:XTAL_ECS-400-10-37B2-CKY-TR"
 			(at 154.94 119.38 0)
 			(hide yes)
 			(show_name no)

@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "sedsna") (type "KiCad") (uri "C:/Users/green/OneDrive/Documents/GitHub/Plane-2026/sedsna.pretty/sedsna.pretty") (options "") (descr ""))
+	(lib (name "TR3_V1") (type "KiCad") (uri "C:/Users/green/OneDrive/Documents/GitHub/Plane-2026/TR3_V1.pretty") (options "") (descr ""))
+	(lib (name "sedsna") (type "KiCad") (uri "C:/Users/green/OneDrive/Documents/GitHub/Plane-2026/sedsna.pretty") (options "") (descr ""))
+)
