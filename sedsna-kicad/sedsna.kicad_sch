@@ -12350,7 +12350,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "sedsna:CONN_SDA_42002-xxxxx_03_MOL"
 			(at 262.89 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -13247,7 +13247,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "sedsna:CONN_SDA_42002-xxxxx_03_MOL"
 			(at 242.57 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -16146,7 +16146,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "sedsna:CONN_SDA_42002-xxxxx_03_MOL"
 			(at 252.73 153.67 0)
 			(hide yes)
 			(show_name no)
