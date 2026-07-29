@@ -661,7 +661,11 @@
         "uuid": "3c74c754-da14-4b64-b199-cc61a11bb69f"
       }
     ],
+<<<<<<< Updated upstream
     "used_designators": "#PWR3-19,#PWR23,#PWR25-29,#PWR31-33,#PWR35,#PWR38-49,#PWR57,#PWR59,#PWR71-72,#PWR91-92,#PWR96-97,SW1,U2,U5-6,BAT1,BR1,J1-10,C3-9,C15,C17-19,C23-24,FB1,PWR1,R2,R7-8,R12,R16,R18-19,ENABLE2,RESET1,B1,L1",
+=======
+    "used_designators": "#PWR3-16,#PWR23,#PWR25-29,#PWR31-33,#PWR35,#PWR38-49,#PWR57,#PWR59,#PWR71-72,#PWR91-92,#PWR96-97,SW1,U2,U5-6,BAT1,BR1,J1-8,C3-9,C15,C17-19,C23-24,FB1,PWR1,R2,R7-8,R12,R16,R18-19,ENABLE2,RESET1,B1,L1",
+>>>>>>> Stashed changes
     "variants": []
   },
   "sheets": [
