@@ -3,4 +3,5 @@
 	(lib (name "TR3_V1") (type "KiCad") (uri "${KIPRJMOD}/../TR3_V1.pretty") (options "") (descr ""))
 	(lib (name "sedsna") (type "KiCad") (uri "${KIPRJMOD}/../sedsna.pretty") (options "") (descr ""))
 	(lib (name "FootprintsV1.1.5") (type "KiCad") (uri "${KIPRJMOD}/../FootprintsV1.1.5.pretty") (options "") (descr ""))
+	(lib (name "sedsna") (type "KiCad") (uri "C:/Projects/Plane/KiCAD/Plane-2026/sedsna.pretty") (options "") (descr ""))
 )
