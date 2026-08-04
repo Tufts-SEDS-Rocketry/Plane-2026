@@ -6459,12 +6459,6 @@
 		(uuid "1b9b5b59-386a-4c2b-ab9d-7904d4f08ba3")
 	)
 	(junction
-		(at 141.605 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1c47e2ca-2c3f-4d66-94b3-aed90d30c2d4")
-	)
-	(junction
 		(at 323.85 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7232,7 +7226,7 @@
 	)
 	(wire
 		(pts
-			(xy 141.605 134.62) (xy 141.605 140.335)
+			(xy 141.605 132.08) (xy 141.605 140.335)
 		)
 		(stroke
 			(width 0)
@@ -7289,16 +7283,6 @@
 			(type default)
 		)
 		(uuid "4a5d9d92-fa38-4ed6-8581-fc62501ba5af")
-	)
-	(wire
-		(pts
-			(xy 141.605 132.08) (xy 141.605 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a9a9eb1-24dd-4567-a41b-f887ddf29a90")
 	)
 	(wire
 		(pts
@@ -8222,16 +8206,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 134.62) (xy 141.605 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0d0e196-dcc6-4d5e-b908-0152ad31ebe6")
-	)
-	(wire
-		(pts
 			(xy 55.88 66.04) (xy 57.15 66.04)
 		)
 		(stroke
@@ -8379,6 +8353,16 @@
 			(type default)
 		)
 		(uuid "e83e533a-ea41-4e0c-a11b-613ac2272241")
+	)
+	(wire
+		(pts
+			(xy 129.54 134.62) (xy 138.43 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eafcf8dd-9964-428c-b636-2d42339435f5")
 	)
 	(wire
 		(pts
@@ -13526,8 +13510,8 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 351.155 137.1599 90)
+		(property "Value" "+6.6V"
+			(at 350.52 137.1599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15877,8 +15861,8 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 351.155 126.9999 90)
+		(property "Value" "+6.6V"
+			(at 350.52 126.9999 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16519,7 +16503,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cc1b9a8b-7ee2-42df-a24c-77c0d2559596")
 		(property "Reference" "#PWR018"
 			(at 335.915 137.16 0)
@@ -16532,15 +16515,14 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 328.295 137.1599 90)
+		(property "Value" "+6.6V"
+			(at 327.152 136.906 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -17233,7 +17215,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e64856d1-b1bc-4857-8618-0608232e7814")
 		(property "Reference" "#PWR017"
 			(at 335.915 127 0)
@@ -17246,15 +17227,14 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 328.295 126.9999 90)
+		(property "Value" "+6.6V"
+			(at 326.644 126.746 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
