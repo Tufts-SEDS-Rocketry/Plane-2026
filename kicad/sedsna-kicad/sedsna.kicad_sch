@@ -9522,7 +9522,7 @@
 		)
 		(uuid "5c77b195-a4bd-4fe7-b45c-80ec76d41297")
 	)
-	(label "Channel_1"
+	(label "Channel_4"
 		(at 57.15 127 0)
 		(effects
 			(font
@@ -9542,7 +9542,7 @@
 		)
 		(uuid "75b695a6-a926-4216-bf29-bae6d523ca9c")
 	)
-	(label "Channel_3"
+	(label "Channel_2"
 		(at 57.15 153.67 0)
 		(effects
 			(font
@@ -9582,7 +9582,7 @@
 		)
 		(uuid "8b3581f3-e7de-45a9-ad12-899088717875")
 	)
-	(label "Channel_2"
+	(label "Channel_3"
 		(at 57.15 129.54 0)
 		(effects
 			(font
@@ -9602,7 +9602,7 @@
 		)
 		(uuid "92223959-aa98-4d9d-933b-98cfdff1cd13")
 	)
-	(label "Channel_4"
+	(label "Channel_1"
 		(at 57.15 156.21 0)
 		(effects
 			(font
