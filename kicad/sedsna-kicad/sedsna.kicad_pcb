@@ -145,9 +145,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../gerbers/")
 		)
 	)
 	(footprint "TR3_V1:MAGNETO-MLX90395KDC"
@@ -41881,8 +41881,7 @@
 	(group ""
 		(uuid "e975ca7c-d3cf-4c1b-b142-4a55abd334ba")
 		(members "07ce3e81-89dd-4e2c-82b4-821c5f865df3" "551818db-58bf-432c-8256-b587964797a9"
-			"9bc00c0e-02cf-464e-bc65-a7a18b77e1d7" "a0665609-b1d0-462e-bb3e-590cbfa485d9"
-			"ed349598-47f2-4624-8c1f-37a765e116b7"
+			"a0665609-b1d0-462e-bb3e-590cbfa485d9" "ed349598-47f2-4624-8c1f-37a765e116b7"
 		)
 	)
 	(group ""
